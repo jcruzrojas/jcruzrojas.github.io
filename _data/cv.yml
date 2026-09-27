@@ -1,12 +1,12 @@
 cv:
-  name: Jesús CruzRojas
+  name: Jesús Cruz Rojas
   label: 
   email: jcrojas@ciencias.unam.mx
   location: Facultad de Ciencias, UNAM
   image: ""
-  summary: []
+  summary: A
 
-  social_networks: []
+  social_networks: 
     - network: 
       username: 
     - network: 
@@ -67,7 +67,7 @@ cv:
         end_date: 2023
         summary: Collaborating in research with Prof. Matti Järvinen
 
-      Volunteer: []
+      Volunteer: 
        - company: 
         position: 
         location: 
@@ -76,7 +76,7 @@ cv:
         summary: 
         highlights:
 
-    Awards: []
+    Awards: 
        - title:
         authors:
         date: 
@@ -102,7 +102,7 @@ cv:
         icon: fa-solid fa-tag
         keywords: "AdS-CFT applications to strongly coupled systems, Neutron Stars equation of state"
 
-    Certificates: []
+    Certificates: 
       - name: 
         date: 
         issuer: 
