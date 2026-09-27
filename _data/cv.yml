@@ -6,21 +6,21 @@ cv:
   image: ""
   summary: A
 
-  social_networks: 
-    - network: 
-      username: 
-    - network: 
-      username: 
-    - network: 
-      username: 
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
 
 
   address:
-    street: Investigación Científica, C.U., 
-    city: Alcaldía Coyoacán,
-    region: Ciudad de México,
-    postalCode: C.P. 04510.
-    countryCode: México.
+    street: Investigación Científica, C.U. 
+    city: Alcaldía Coyoacán
+    region: Ciudad de México
+    postalCode: C.P. 04510
+    countryCode: México
 
   sections:
     Education:
@@ -37,10 +37,20 @@ cv:
 
       - institution: University of Cambridge
         location: Cambridge, United Kingdom
+        url: https://www.maths.cam.ac.uk/postgrad/part-iii/current
         area: Physics
         studyType: Part III of the Mathematical Tripos
         start_date: 2014
         end_date: 2015
+        highlights:
+
+      - institution: Universidad Nacional Autonoma de México
+        location: Ciudad de México, México
+        url: 
+        area: Physics
+        studyType: Licenciatura en Física
+        start_date: 2009
+        end_date: 2014
         highlights:
 
     Experience:
@@ -67,22 +77,36 @@ cv:
         end_date: 2023
         summary: Collaborating in research with Prof. Matti Järvinen
 
-      Volunteer: 
-       - company: 
-        position: 
-        location: 
-        start_date: 
-        end_date: 
-        summary: 
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
 
-    Awards: 
-       - title:
+
+    Awards:
+      - title: Nobel Prize in Physics
         authors:
-        date: 
-        awarder: 
-        url: 
-        summary: 
+          - "Royal Swedish Academy of Sciences"
+        date: 1921-11-01
+        awarder: Ro
+        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: Th
+
+    Publications:
+      - title: Zur Elektrodynamik bewegter Körper
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-06-30
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+
 
     Skills:
       - name: 
@@ -102,11 +126,12 @@ cv:
         icon: fa-solid fa-tag
         keywords: "AdS-CFT applications to strongly coupled systems, Neutron Stars equation of state"
 
-    Certificates: 
-      - name: 
-        date: 
-        issuer: 
-        icon: 
+ Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
+
 
 
     Projects:
