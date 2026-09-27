@@ -6,7 +6,7 @@ cv:
   image: ""
   summary: []
 
-  social_networks:
+  social_networks: []
     - network: 
       username: 
     - network: 
@@ -67,11 +67,22 @@ cv:
         end_date: 2023
         summary: Collaborating in research with Prof. Matti Järvinen
 
-   Volunteer: []
+      Volunteer: []
+       - company: 
+        position: 
+        location: 
+        start_date: 
+        end_date: 
+        summary: 
+        highlights:
 
-   Awards: []
-
-   certificates: []
+    Awards: []
+       - title:
+        authors:
+        date: 
+        awarder: 
+        url: 
+        summary: 
 
     Skills:
       - name: 
@@ -90,6 +101,12 @@ cv:
       - name: Physics
         icon: fa-solid fa-tag
         keywords: "AdS-CFT applications to strongly coupled systems, Neutron Stars equation of state"
+
+    Certificates: []
+      - name: 
+        date: 
+        issuer: 
+        icon: 
 
 
     Projects:
