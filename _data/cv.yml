@@ -15,7 +15,6 @@ cv:
       username: 
 
 
-
   address:
     street: Investigación Científica, C.U., 
     city: Alcaldía Coyoacán,
@@ -68,12 +67,10 @@ cv:
         end_date: 2023
         summary: Collaborating in research with Prof. Matti Järvinen
 
-
-
     Skills:
       - name: 
         level: 
-        icon: 
+        icon: fa-laptop-code
         keywords: "Numerical Methods, Wolfram Mathematica, Python"
 
     Languages:
@@ -86,7 +83,7 @@ cv:
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "AdS-CFT applications to strongly coupled systems, Neutron Stars equation of state"
 
 
     Projects:
@@ -105,7 +102,6 @@ cv:
       - name: Professor Matti Järvinen
         icon: fa-solid fa-chalkboard-user
         reference: Associate Professor Institute Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing
-.
 
        - name: Professor Nick Evans
         icon: fa-solid fa-chalkboard-user
