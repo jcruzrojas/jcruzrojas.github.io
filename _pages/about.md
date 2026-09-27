@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='America/Mexico_City' %}
 ---
 
 I am a Postdoctoral researcher at the Facultad de Ciencias UNAM. Previously, I was a postdoctoral researche fellow at the Instituto de Ciencias Nucleares, and a postdoctoral researcher at the Asia Pacific Center for Theoretical Physics in South Korea.
