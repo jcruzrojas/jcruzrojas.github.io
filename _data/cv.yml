@@ -47,42 +47,35 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+     - company: Facultad de Ciencias UNAM
+        position: Research Fellow SECIHTI
+        location: Facultad de Ciencias
+        start_date: 2025
+        end_date: 2027
+        summary: Teaching the undergraduate Relativity course and collaborating in research with Prof. Leonardo Patiño
         highlights:
-          - Relativity
+          - Description 1.
           - Description 2.
+         
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Instituto de Ciencias Nucleares UNAM
+        position: Research Fellow DGAPA
+        location: Instituto de Ciencias Nucleares
+        start_date: 2013
+        end_date: 2015
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Asia Pacific Center for Theoretical Physics
+        position: Research Fellow
+        location: Pohang, South Korea
+        start_date: 2021
+        end_date: 2023
+        summary: Collaborating in research with Prof. Matti Järvinen
+        highlights:
+          - Description 1.
+          - Description 2.
 
     Volunteer:
       - company: People's Climate March
