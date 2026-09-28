@@ -180,10 +180,14 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Leonardo Patiño
+        icon: fa-solid fa-chalkboard-user
+        reference: Profesor Titular C Facultad de Ciencias UNAM.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Matti Järvinen
+        icon: fa-solid fa-chalkboard-user
+        reference: Associate Professor Institute Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing
+
+       - name: Professor Nick Evans
+        icon: fa-solid fa-chalkboard-user
+        reference: Professor of Theoretical Physics, School of Physics and Astronomy, University of Southampton
