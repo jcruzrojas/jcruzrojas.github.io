@@ -6,7 +6,7 @@ cv:
   image: ""
   summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-  social_networks:
+  social_networks: []
     - network: X
       username: AlbertEinstein
     - network: GitHub
@@ -181,13 +181,13 @@ cv:
 
     References:
       - name: Professor Leonardo Patiño
-        icon: fa-solid fa-laptop
+        icon: fa-solid fa-chalkboard-user
         reference: Profesor Titular C Facultad de Ciencias UNAM.
 
       - name: Professor Matti Järvinen
-        icon: fa-solid fa-laptop
+        icon: fa-solid fa-chalkboard-user
         reference: Associate Professor Institute Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing
 
        - name: Professor Nick Evans
-        icon: fa-solid fa-laptop
+        icon: fa-solid fa-chalkboard-user
         reference: Professor of Theoretical Physics, School of Physics and Astronomy, University of Southampton
