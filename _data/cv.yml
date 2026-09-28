@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Investigación Científica, C.U. 
+    city: Alcaldía Coyoacán
+    region: Ciudad de México
+    postalCode: C.P. 04510
+    countryCode: México
 
   sections:
     Education:
