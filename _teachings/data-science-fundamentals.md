@@ -1,12 +1,12 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
+title: Relatividad
+description: Este curso tiene como objetivo exponer los principios elementales de relatividad especial y general y sus aplicaciones básicas, incluyendo algunos aspectos básicos de teoría de grupos, geometría diferencial, álgebra tensorial, teoría de campos y cosmología.
+instructor: Jesús Cruz
+year: 2026
+term: 2026-2
+location: Salon P209
+time: Martes y Jueves, 2:00-3:30 PM
 course_id: data-science-fundamentals
 schedule:
   - week: 1
@@ -72,26 +72,21 @@ schedule:
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
-
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+El primer tercio del curso se dedica al estudio de la Relatividad Especial.
+El segundo tercio al de la geometría diferencial y aspectos del calculo tensorial, como herramientas necesarias para introducir la Relatividad General.
+La última parte del curso está dedicada al estudio de la Relatividad General y a los principios de la Cosmología moderna. Finalmente se discutirán los enfoques modernos y aplicaciones de teorías de gravitación.
 
 ## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+- Calculos y Algebra Lineal
+- Mecanica Vectorial
+- Electromagnetismo I
 
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+- "Relatividad para futuros físicos" by Saúl Ramos
 
 ## Grading
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+- Assignments: 100%
+
