@@ -181,13 +181,13 @@ cv:
 
     References:
       - name: Professor Leonardo Patiño
-        icon: fa-solid fa-chalkboard-user
+        icon: fa-solid fa-laptop
         reference: Profesor Titular C Facultad de Ciencias UNAM.
 
       - name: Professor Matti Järvinen
-        icon: fa-solid fa-chalkboard-user
+        icon: fa-solid fa-laptop
         reference: Associate Professor Institute Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing
 
        - name: Professor Nick Evans
-        icon: fa-solid fa-chalkboard-user
+        icon: fa-solid fa-laptop
         reference: Professor of Theoretical Physics, School of Physics and Astronomy, University of Southampton
