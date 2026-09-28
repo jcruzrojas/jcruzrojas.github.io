@@ -4,7 +4,7 @@ cv:
   email: jcrojas@ciencias.unam.mx
   location: Ciudad de Mexico
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: 
 
   social_networks:
     - network: X
@@ -180,8 +180,7 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
+      - name: Professor Leonardo Patiño
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
+        reference: Profesor Titular C Facultad de Ciencias UNAM.
       
