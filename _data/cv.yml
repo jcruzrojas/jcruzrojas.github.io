@@ -1,6 +1,6 @@
 cv:
   name: Jesús Cruz Rojas
-  label: 
+  label: Dr.
   email: jcrojas@ciencias.unam.mx
   location: Facultad de Ciencias, UNAM
   image: ""
@@ -32,8 +32,10 @@ cv:
         start_date: 2016
         end_date: 2020
         score: ""
-        courses: 
+        courses: "Theory of Relativity"
         highlights:
+          - Description 1.
+          - Description 2.
 
       - institution: University of Cambridge
         location: Cambridge, United Kingdom
@@ -52,6 +54,8 @@ cv:
         start_date: 2009
         end_date: 2014
         highlights:
+          - Description 1.
+          - Description 2.
 
     Experience:
       - company: Facultad de Ciencias UNAM
@@ -61,6 +65,8 @@ cv:
         end_date: Present
         summary: Teaching the undergraduate Relativity course and collaborating in research with Prof. Leonardo Patiño
         highlights:
+          - Description 1.
+          - Description 2.
          
 
       - company: Instituto de Ciencias Nucleares UNAM
@@ -69,6 +75,8 @@ cv:
         start_date: 2013
         end_date: 2015
         highlights:
+          - Description 1.
+          - Description 2.
 
       - company: Asia Pacific Center for Theoretical Physics
         position: Research Fellow
@@ -76,6 +84,9 @@ cv:
         start_date: 2021
         end_date: 2023
         summary: Collaborating in research with Prof. Matti Järvinen
+        highlights:
+          - Description 1.
+          - Description 2.
 
     Volunteer:
       - company: People's Climate March
@@ -109,8 +120,8 @@ cv:
 
 
     Skills:
-      - name: 
-        level: 
+      - name: Physics
+        level: Master
         icon: fa-laptop-code
         keywords: "Numerical Methods, Wolfram Mathematica, Python"
 
@@ -136,9 +147,10 @@ cv:
 
     Projects:
       - name: Modeling Neutron Stars core matter
-        summary: 
+        summary: Q
         highlights:
-        
+          - Quantum Teleportation
+          - Quantum Cryptography
         start_date: 2018-01-01
         end_date: 2018-01-01
 
