@@ -48,16 +48,15 @@ cv:
 
     Experience:
      - company: Facultad de Ciencias UNAM
-        position: Research Fellow SECIHTI
-        location: UNAM
-        start_date: 2025
-        end_date: 2027
-        summary: Teaching the undergraduate Relativity course and collaborating in research with Prof. Leonardo Patiño
-        highlights:
-          - Description 1.
-          - Description 2.
+       position: Research Fellow SECIHTI
+       location: UNAM
+       start_date: 2025
+       end_date: 
+       summary: Teaching the undergraduate Relativity course and collaborating in research with Prof. Leonardo Patiño
+       highlights:
          
-      - company: Instituto de Ciencias Nucleares UNAM
+         
+     - company: Instituto de Ciencias Nucleares UNAM
         position: Research Fellow DGAPA
         location: Instituto de Ciencias Nucleares
         start_date: 2013
@@ -66,15 +65,14 @@ cv:
           - Description 1.
           - Description 2.
 
-      - company: Asia Pacific Center for Theoretical Physics
-        position: Research Fellow
-        location: Pohang, South Korea
-        start_date: 2021
-        end_date: 2023
-        summary: Collaborating in research with Prof. Matti Järvinen
-        highlights:
-          - Description 1.
-          - Description 2.
+     - company: Asia Pacific Center for Theoretical Physics
+       position: Research Fellow
+       location: Pohang, South Korea
+       start_date: 2021
+       end_date: 2023
+       summary: Collaborating in research with Prof. Matti Järvinen
+       highlights:
+        
 
     Volunteer:
       - company: People's Climate March
