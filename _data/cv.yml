@@ -4,7 +4,7 @@ cv:
   email: jcrojas@ciencias.unam.mx
   location: Ciudad de Mexico
   image: ""
-  summary: ""
+  summary: AAA
   social_networks:
     - network: X
       username: AlbertEinstein
@@ -27,9 +27,7 @@ sections:
       studyType: PhD
       start_date: 2016
       end_date: 2020
-      score: ""
       courses: Theory of Relativity
-      highlights: []
     - institution: University of Cambridge
       location: Cambridge, United Kingdom
       url: https://www.maths.cam.ac.uk/postgrad/part-iii/current
@@ -37,7 +35,6 @@ sections:
       studyType: Part III of the Mathematical Tripos
       start_date: 2014
       end_date: 2015
-      highlights: []
     - institution: Universidad Nacional Autonoma de México
       location: Ciudad de México, México
       url: https://www.fciencias.unam.mx/
@@ -45,7 +42,6 @@ sections:
       studyType: Licenciatura en Física
       start_date: 2009
       end_date: 2014
-      highlights: []
   Experience:
     - company: Facultad de Ciencias UNAM
       position: Research Fellow SECIHTI
@@ -54,30 +50,26 @@ sections:
       end_date: "present"
       summary: Teaching the undergraduate Relativity course and collaborating in
         research with Prof. Leonardo Patiño
-      highlights: []
     - company: Instituto de Ciencias Nucleares UNAM
       position: Research Fellow DGAPA
       location: Instituto de Ciencias Nucleares
       start_date: 2013
       end_date: 2015
-      highlights: []
     - company: Asia Pacific Center for Theoretical Physics
       position: Research Fellow
       location: Pohang, South Korea
       start_date: 2021
       end_date: 2023
       summary: Collaborating in research with Prof. Matti Järvinen
-      highlights: []
   Awards:
-    - title: Nobel Prize in Physics
-      authors:
-        - Royal Swedish Academy of Sciences
-      date: 1921-11-01
-      awarder: Royal Swedish Academy of Sciences
-      url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-      summary: The Nobel Prizes are five separate prizes that, according to Alfred
-        Nobel's will of 1895, are awarded to 'those who, during the preceding
-        year, have conferred the greatest benefit to humankind.'
+    - title: Sistema Nacional de Investigadoras e Investigadores
+      authors: []
+      date: 2025
+      awarder: SECIHTI
+      url: https://www.secihti.mx/snii/
+      summary: El SNII fue creado por Acuerdo Presidencial en 1984, para reconocer la labor de las personas dedicadas a producir conocimiento científico y tecnología. 
+      El reconocimiento se otorga a través de la evaluación por pares y consiste en otorgar el nombramiento de investigadora o investigador nacional. 
+      Esta distinción simboliza la calidad y prestigio de las contribuciones científicas.
   Publications:
     - title: Zur Elektrodynamik bewegter Körper
       authors:
