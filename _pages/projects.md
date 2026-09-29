@@ -2,7 +2,7 @@
 layout: page
 title: thesis projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Los estudiantes interesados ​​en realizar su servicio social o elaborar una tesis de licenciatura son bienvenidos a ponerse en contacto conmigo. Pueden enviarme un correo electrónico o pasar por mi cubiculo (planta baja del Edificio de Física, Laboratorio de Física General, cubículo 1) para conversar sobre posibles proyectos.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
